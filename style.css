@@ -1,0 +1,28 @@
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+h1, h2{
+	text-align: center;
+}
+
+img {
+	margin:0px;
+	padding: 0px;
+}
+
+.img-quarter-width {
+	width: calc(24.2%);
+	height: auto;
+}
+
+.img-half-width {
+	width: calc(48.9%);
+	height: auto;
+}
+
+.img-container {
+	max-width: 605px;
+	margin: 0 auto;
+}
